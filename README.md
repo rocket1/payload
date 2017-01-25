@@ -24,6 +24,7 @@ The goal of this project is:
   1. Allow the developer to easily create a custom CMS for the client that show *only* the exact fields to fill in.
   2. Require the utmost minimal additions to existing codebase.
   3. Complete history of all changes to all content fields.
+  4. The utmost minimal setup and configuration.
 
 Here is the basic flow:
 
